@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Chebyshev geometry.md",
+                "file": "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Intro to Quantum Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chebyshev geometry"
+              "title": "Intro to Quantum Chemistry"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Chebyshev geometry.md",
+                "file": "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Intro to Quantum Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chebyshev geometry"
+              "title": "Backlinks for Intro to Quantum Chemistry"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Chebyshev geometry.md",
+                "file": "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Intro to Quantum Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chebyshev geometry"
+              "title": "Outgoing links from Intro to Quantum Chemistry"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Chebyshev geometry.md",
+                "file": "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Intro to Quantum Chemistry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chebyshev geometry"
+              "title": "Outline of Intro to Quantum Chemistry"
             }
           },
           {
@@ -180,8 +180,18 @@
   },
   "active": "d9a62a9566c39d19",
   "lastOpenFiles": [
-    "Maths/Banach spaces.md",
+    "Physik/Quantenphysik/Quantum Chemie/Jordan-Wigner-Representation.md",
+    "Physik/Quantenphysik/Quantum Chemie/Post-Hartree-Fock.md",
+    "Physik/Quantenphysik/Quantum Annealing/QUBO Matrix.md",
+    "Physik/Quantenphysik/Quantum Chemie/Hartree-Fock-Approximation.md",
+    "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Intro to Quantum Chemistry.md",
+    "Pasted image 20250706185843.png",
+    "Pasted image 20250706185742.png",
+    "Pasted image 20250706185646.png",
+    "Physik/Quantenphysik/Quantum Chemie/1. Intro Material/Untitled.md",
     "Maths/Chebyshev geometry.md",
+    "Physik/Quantenphysik/Quantum Chemie/1. Intro Material",
+    "Maths/Banach spaces.md",
     "Physik/Quantenphysik/Quantum Computing/Why is QP just a hype.md",
     "Ingenieurwissenschaften/Untitled.md",
     "Ingenieurwissenschaften/Nuclear",
@@ -194,7 +204,6 @@
     "Ingenieurwissenschaften/Elektrotechnik",
     "Ingenieurwissenschaften",
     "Physik/Untitled",
-    "Physik/Optik/Spektroskopie",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,3 @@
+- very simple approach thru Rechnerarchitektur Kurs
+- Needs more mathematical-oriented approach
+- This video is Qiskit based but helpful: https://www.youtube.com/watch?v=RyRKmZ6A25k&ab_channel=Qiskit
